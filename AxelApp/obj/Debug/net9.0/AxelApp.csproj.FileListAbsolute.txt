@@ -1,0 +1,14 @@
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\bin\Debug\net9.0\AxelApp.exe
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\bin\Debug\net9.0\AxelApp.deps.json
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\bin\Debug\net9.0\AxelApp.runtimeconfig.json
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\bin\Debug\net9.0\AxelApp.dll
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\bin\Debug\net9.0\AxelApp.pdb
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\obj\Debug\net9.0\AxelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\obj\Debug\net9.0\AxelApp.AssemblyInfoInputs.cache
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\obj\Debug\net9.0\AxelApp.AssemblyInfo.cs
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\obj\Debug\net9.0\AxelApp.csproj.CoreCompileInputs.cache
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\obj\Debug\net9.0\AxelApp.dll
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\obj\Debug\net9.0\refint\AxelApp.dll
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\obj\Debug\net9.0\AxelApp.pdb
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\obj\Debug\net9.0\AxelApp.genruntimeconfig.cache
+C:\Users\axelm\Documents\Divertissement\Gareth\AxelApp\obj\Debug\net9.0\ref\AxelApp.dll
